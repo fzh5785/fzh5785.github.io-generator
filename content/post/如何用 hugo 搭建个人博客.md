@@ -14,3 +14,8 @@ draft: false
 3. 下载安装主题
 4. 在根目录/content/post新建x.md文件
 5. 运行hugo server，然后复制网址
+6. 在根目录终端打下
+
+* git add .(提交)
+* gc (命名)
+* git push (上传)
