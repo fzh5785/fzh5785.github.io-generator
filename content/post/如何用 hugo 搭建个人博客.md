@@ -14,5 +14,6 @@ draft: false
 3. 下载安装主题
 4. 在根目录/content/post新建x.md文件
 5. 运行hugo server，然后复制网址
-6. 进入目录public/
-7. 然后add/commit/push
+6. 上传到远程仓库
+7. 进入目录public/
+8. 然后add/commit/push
